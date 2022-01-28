@@ -1,0 +1,62 @@
+{
+    "Alberta (AB)":{
+        "Province": "Alberta",
+        "Dataset":"AB"
+    },
+    "British Columbia (BC)":{
+        "Province": "British Columbia",
+        "Dataset":"BC"
+    },
+    "New Brunswick (NB)":{
+        "Province": "New Brunswick",
+        "Dataset":"NB"
+    },
+    "Newfoundland and Labrador (NL)":{
+        "Province": "Newfoundland and Labrador",
+        "Dataset":"NL"
+    },
+    "Northwest Territories (NT)":{
+        "Province": "Northwest Territories",
+        "Dataset":"NT"
+    },
+    "Nova Scotia (NS)":{
+        "Province": "Nova Scotia",
+        "Dataset":"NS"
+    },
+    "Nunavut (NU)":{
+        "Province": "Nunavut",
+        "Dataset":"NU"
+    },
+    "Ontario (ON)":{
+        "Province": "Ontario",
+        "Dataset":"ON"
+    },
+    "Prince Edward Island (PE)":{
+        "Province": "Prince Edward Island",
+        "Dataset":"PE"
+    },
+    "Quebec(QC)":{
+        "Province": "Quebec",
+        "Dataset":"QC"
+    },
+    "Saskatchewan (SK)":{
+        "Province": "Alberta",
+        "Dataset":"SK"
+    },
+    "Yukon (YT)":{
+        "Province": "Yukon",
+        "Dataset":"YT"
+    },
+    "Repatriated (RP)":{
+        "Province": "Repatriated",
+        "Dataset":"RP"
+    },
+
+    "Manitoba (MB)":{
+        "Province": "Manitoba",
+        "Dataset":"MB"
+    }
+    
+   
+
+}
